@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Traan, but you can call me "Liex"</h1>
 <h3 align="center">IM UITER</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmie&label=Profile%20views&color=0e75b6&style=flat" alt="rmie" /> </p>
-
+<br>
 - Contact **traanngoclong10a4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
