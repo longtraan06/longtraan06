@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Long Traan, but you can call me "Liex"</h1>
-<h3 align="center">IM UITER</h3>
-<br>
+
 - Contact: traanngoclong10a4@gmail.com
 
 <h3 align="left">Connect with me:</h3>
