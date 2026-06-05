@@ -86,18 +86,6 @@ Used **YOLO11n + NCNN**, reaching **25–30 FPS**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=longtraan06&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longtraan06&layout=compact&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### Open to AI Intern / Fresher AI Engineer / AI R&D opportunities
