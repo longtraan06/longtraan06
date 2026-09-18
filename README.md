@@ -13,11 +13,11 @@ Computer Science @ **University of Information Technology (VNU-HCM)**
 
 ---
 
-### 📌 Overview
+###  Overview
 
-- 🎓 **Education:** Final-year CS student at **UIT - VNU-HCM** (Expected 2027).
-- 🎯 **Focus Areas:** Agentic Workflows, Multimodal Video/3D Retrieval, Local LLM Serving, Edge AI.
-- ⚙️ **Engineering:** End-to-end system design—from model quantization and vector search to backend APIs and deployment.
+-  **Education:** Final-year CS student at **UIT - VNU-HCM** (Expected 2027).
+-  **Focus Areas:** Agentic Workflows, Multimodal Video/3D Retrieval, Local LLM Serving, Edge AI.
+   **Engineering:** End-to-end system design—from model quantization and vector search to backend APIs and deployment.
 
 ---
 
@@ -49,7 +49,7 @@ Computer Science @ **University of Information Technology (VNU-HCM)**
 
 ---
 
-### 🚀 Selected Projects
+###  Selected Projects
 
 - **Large-scale Multimodal Video Retrieval System**  
   `Milvus` `Redis` `FastAPI` `Nginx` `Multimodal LLMs`  
@@ -59,7 +59,7 @@ Computer Science @ **University of Information Technology (VNU-HCM)**
 - **Agentic Spatial Reasoning System**  
   `TensorRT` `llama.cpp` `vLLM` `Ollama` `VLMs`  
   - Agentic framework decomposing complex spatial queries into coordinate and pose estimation for warehouse environments.  
-  - 🏆 *Top 6 Internationally — NVIDIA AI City Challenge 2025 (Track 3)*
+  -  *Top 6 Internationally — NVIDIA AI City Challenge 2025 (Track 3)*
 
 - **[AI Study Helper: OCR & Flashcards](https://github.com/LongTraan1106/TriaL_Scan-to-flashcard)**  
   `FastAPI` `PostgreSQL` `PaddleOCR` `llama.cpp` `Cloudflare Tunnel`  
@@ -76,7 +76,7 @@ Computer Science @ **University of Information Technology (VNU-HCM)**
 
 ---
 
-### 📄 Publications & Recognitions
+###  Publications & Recognitions
 
 #### Papers
 - **When Events Speak: MLLM-Guided Video Retrieval with Temporal Reranking** (2025)  
