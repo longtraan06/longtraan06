@@ -152,11 +152,15 @@ Computer Science @ **University of Information Technology (UIT - VNU-HCM)**
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longtraan06&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="155"/>
-  <img src="https://streak-stats.demolab.com?user=longtraan06&theme=tokyonight&hide_border=false" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtraan06&layout=compact&theme=tokyonight&hide_border=false" height="155"/>
-</div>
+<p align="center">
+  <a href="https://github.com/longtraan06">
+    <img src="https://github-readme-stats.vercel.app/api?username=longtraan06&show_icons=true&theme=tokyonight&hide_border=false" alt="Long Tran's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/longtraan06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtraan06&layout=compact&theme=tokyonight&hide_border=false&hide=jupyter%20notebook" alt="Top Languages" />
+  </a>
+</p>
 
 <br/>
 
